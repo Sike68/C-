@@ -1,0 +1,8 @@
+E:\C#\FirstRepo\FirstRepo\bin\Debug\FirstRepo.exe.config
+E:\C#\FirstRepo\FirstRepo\bin\Debug\FirstRepo.exe
+E:\C#\FirstRepo\FirstRepo\bin\Debug\FirstRepo.pdb
+E:\C#\FirstRepo\FirstRepo\obj\Debug\FirstRepo.csproj.AssemblyReference.cache
+E:\C#\FirstRepo\FirstRepo\obj\Debug\FirstRepo.csproj.CoreCompileInputs.cache
+E:\C#\FirstRepo\FirstRepo\obj\Debug\FirstRepo.exe
+E:\C#\FirstRepo\FirstRepo\obj\Debug\FirstRepo.pdb
+E:\C#\FirstRepo\FirstRepo\obj\Debug\FirstRepo.exe.config
